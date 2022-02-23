@@ -1,13 +1,9 @@
 # Mata Kuliah Pemograman Visual
 ## Dosen Pengampu: T. Henny Febriana Harumy, S.Kom, M.Kom
 
----
-**Nama: Wilson**
-
-**NIM: 201401148**
-
-**Kom: A**
----
+**Nama: Wilson**  
+**NIM: 201401148**  
+**Kom: A**  
 
 ## Tugas 1.1
 
