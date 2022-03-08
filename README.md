@@ -7,7 +7,7 @@
 
 # Tugas 4
 ## Tugas 1.1  
-![SS Tugas 4.1](Tugas4/SS/Tugas4.png)  
+![SS Tugas 4.1](Tugas4/SS/Tugas4.PNG)  
 
 # Tugas 3
 ## Tugas 1.1  
