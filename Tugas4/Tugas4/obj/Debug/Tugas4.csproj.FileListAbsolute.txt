@@ -1,0 +1,8 @@
+C:\Users\John\Documents\SharpDevelop Projects\Tugas4\Tugas4\bin\Debug\Tugas4.exe
+C:\Users\John\Documents\SharpDevelop Projects\Tugas4\Tugas4\bin\Debug\Tugas4.pdb
+C:\Users\John\Documents\SharpDevelop Projects\Tugas4\Tugas4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\John\Documents\SharpDevelop Projects\Tugas4\Tugas4\obj\Debug\Tugas4.MainForm.resources
+C:\Users\John\Documents\SharpDevelop Projects\Tugas4\Tugas4\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\John\Documents\SharpDevelop Projects\Tugas4\Tugas4\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\John\Documents\SharpDevelop Projects\Tugas4\Tugas4\obj\Debug\Tugas4.exe
+C:\Users\John\Documents\SharpDevelop Projects\Tugas4\Tugas4\obj\Debug\Tugas4.pdb
