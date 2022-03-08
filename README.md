@@ -6,10 +6,13 @@
 **Kom: A**  
 
 # Tugas 4
-## Tugas 1.1  
+
+## Tugas 4.1  
 ![SS Tugas 4.1](Tugas4/SS/Tugas4.PNG)  
 
+
 # Tugas 3
+
 ## Tugas 1.1  
 ![SS Tugas 1.1](Tugas/Tugas1.1.png)  
 
