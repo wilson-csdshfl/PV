@@ -5,6 +5,11 @@
 **NIM: 201401148**  
 **Kom: A**  
 
+# Tugas 4
+## Tugas 1.1  
+![SS Tugas 4.1](Tugas4/SS/Tugas4.png)  
+
+# Tugas 3
 ## Tugas 1.1  
 ![SS Tugas 1.1](Tugas/Tugas1.1.png)  
 
