@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\SharpDevelop Projects\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.MainForm.resources
+C:\Users\Administrator\Documents\SharpDevelop Projects\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\kalkulatorSederhana\kalkulatorSederhana\bin\Debug\kalkulatorSederhana.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\kalkulatorSederhana\kalkulatorSederhana\bin\Debug\kalkulatorSederhana.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\kalkulatorSederhana\kalkulatorSederhana\obj\Debug\kalkulatorSederhana.pdb
