@@ -1,0 +1,7 @@
+C:\Users\Potato\Documents\SharpDevelop Projects\Kasir\Kasir\bin\Debug\Kasir.exe
+C:\Users\Potato\Documents\SharpDevelop Projects\Kasir\Kasir\bin\Debug\Kasir.pdb
+C:\Users\Potato\Documents\SharpDevelop Projects\Kasir\Kasir\obj\Debug\Kasir.csprojResolveAssemblyReference.cache
+C:\Users\Potato\Documents\SharpDevelop Projects\Kasir\Kasir\obj\Debug\Kasir.MainForm.resources
+C:\Users\Potato\Documents\SharpDevelop Projects\Kasir\Kasir\obj\Debug\Kasir.csproj.GenerateResource.Cache
+C:\Users\Potato\Documents\SharpDevelop Projects\Kasir\Kasir\obj\Debug\Kasir.exe
+C:\Users\Potato\Documents\SharpDevelop Projects\Kasir\Kasir\obj\Debug\Kasir.pdb
